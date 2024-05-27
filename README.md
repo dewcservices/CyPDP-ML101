@@ -1,7 +1,15 @@
 # ml101
 
-## Python
+You can use either Python or Docker to spin up the notebook.
 
+## Python
+If you need to install Python, the following is recommended on Ubuntu.
+```
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt install python3.11 python3.11-venv
+```
+
+To run the notebook:
 ```
 git clone https://github.com/dewcservices/ml101.git
 cd ml101
@@ -12,7 +20,6 @@ python -m notebook
 ```
 
 ## Docker
-
 ```
 git clone https://github.com/dewcservices/ml101.git
 cd ml101
