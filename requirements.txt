@@ -24,7 +24,7 @@ filelock==3.13.1
 fqdn==1.5.1
 fsspec==2024.2.0
 h11==0.14.0
-holoviews==1.18.3
+holoviews==1.21.0
 httpcore==1.0.5
 httpx==0.27.0
 hvplot==0.10.0
